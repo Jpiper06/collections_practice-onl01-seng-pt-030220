@@ -31,7 +31,7 @@ array.inject(0, :+)
 end 
 
 def add_s(array)
-array.collect{|arr| arr==array [1] ? arr:arr<<"s}"
+array.collect {|arr| arr==array [1] ? arr:arr<<"s"}
 end 
 
 
