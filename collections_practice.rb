@@ -1,5 +1,5 @@
 def sort_array_asc(intergers)
-  .sort 
+ intergers.sort 
 end 
 
 def sort_arrau_desc(integers) 
