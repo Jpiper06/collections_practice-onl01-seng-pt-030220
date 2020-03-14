@@ -1,8 +1,8 @@
 def sort_array_asc(intergers)
-  sort 
+  .sort 
 end 
 
-def sort_arrau_desc( integers) 
+def sort_arrau_desc(integers) 
   intergers.sort{|a,b| b<=>a}
 end
 
