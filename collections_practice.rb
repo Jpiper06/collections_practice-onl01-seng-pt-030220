@@ -27,7 +27,7 @@ def find_a(array)
 end 
 
 def sum_arry(array)
-array.inject(0, ;+)
+array.inject(0, :+)
 end 
 
 def add_s(array) array.collect{|arr| arr==array [1] ? arr:arr<<"s}"
