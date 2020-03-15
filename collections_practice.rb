@@ -26,7 +26,7 @@ def find_a(array)
   array.find_all {|arr| arr[0] =="a"}
 end 
 
-def sum_arry(array)
+def sum_array(array)
 array.inject(0, :+)
 end 
 
